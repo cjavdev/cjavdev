@@ -1,6 +1,6 @@
 # Web developer, YouTuber, and developer advocate.
 
-Hi Friends! I’m CJ, a web developer and entrepreneur based in Bedford, NH. I teach web development fundamentals and help devs integrate APIs.
+Hi Friends! I’m CJ, a web developer and builder based in Bedford, NH. I teach web development fundamentals and help devs integrate AI and APIs.
 
 * [YouTube](https://www.youtube.com/CJAvilla)
 * [Twitter](https://twitter.com/cjav_dev)
