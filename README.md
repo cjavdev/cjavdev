@@ -1,4 +1,4 @@
-# Web developer, YouTuber, and developer advocate.
+# Web developer, YouTuber, and agent advocate.
 
 Hi Friends! I’m CJ, a builder based in Bedford, NH. I teach fundamentals and help devs integrate AI and APIs.
 
